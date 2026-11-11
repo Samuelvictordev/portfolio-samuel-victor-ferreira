@@ -1,44 +1,40 @@
-# 🌐 AT2 – Deploy de Site
+# 🌐 AT2 — Deploy de Site: Pixel Club
 
 **Autor:** Samuel Victor Ferreira  
-**Curso:** Análise e Desenvolvimento de Sistemas — UNICID
+**Curso:** Análise e Desenvolvimento de Sistemas — UNICID  
+**Projeto:** Pixel Club — A Evolução dos Videogames
 
 ## 📝 Descrição do Projeto
 
-Praticar a publicação de um site na internet e a disponibilização de um endereço público para acesso ao projeto.
+Esta atividade apresenta a publicação do **Pixel Club** no GitHub Pages, disponibilizando um site acessível pela internet.
 
-Esta pasta integra o portfólio acadêmico de Desenvolvimento Front-End de Samuel Victor Ferreira.
+O Pixel Club é um site responsivo sobre a história dos videogames, com cinco páginas interligadas: início, galeria, dados, contato e sobre.
+
+Neste portfólio, o mesmo projeto é apresentado sob dois objetivos: a **AT2** documenta sua publicação e acesso público; a [AT4](../AT4-Site-Multi-Paginas-Bootstrap/README.md) descreve o desenvolvimento do site multipágina com Bootstrap 5.
 
 ## 🚀 Tecnologias Utilizadas
 
-As linguagens e a plataforma de hospedagem serão registradas após a conferência do site e de sua configuração de publicação.
-
-- **Repositório e versionamento da documentação:** GitHub.
+- **HTML5, CSS3 e JavaScript:** estrutura, apresentação e interatividade.
+- **Bootstrap 5:** layout e componentes responsivos.
+- **GitHub:** hospedagem do repositório de código-fonte.
+- **GitHub Pages:** publicação do site estático.
 
 ## 📊 Resultados e Aprendizados
 
-### Objetivos de aprendizagem
+O projeto possui um endereço público no GitHub Pages e código-fonte em repositório próprio.
 
-- Organização dos arquivos necessários à publicação.
-- Configuração da plataforma de hospedagem.
-- Conferência dos caminhos de páginas e recursos.
-- Verificação do endereço público após o deploy.
-
-### Situação atual no repositório
-
-Esta pasta contém a documentação da atividade. Os arquivos de implementação ainda não foram adicionados aqui; por isso, os resultados, as funcionalidades concluídas e as verificações de funcionamento ainda precisam ser registrados a partir da entrega correspondente.
+A atividade envolve a organização dos arquivos para hospedagem, o uso de caminhos entre páginas e recursos e a disponibilização de um link público para acesso ao site.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta documentação foi elaborada com apoio de inteligência artificial para organizar as informações do portfólio e padronizar sua apresentação.
-
-O uso de IA na implementação da atividade deverá ser descrito conforme o processo efetivamente realizado, incluindo as ferramentas utilizadas, suas contribuições e a revisão das sugestões. Esta declaração não atribui à implementação um histórico de uso de IA ainda não documentado.
+A organização e a redação desta documentação tiveram apoio de inteligência artificial. O histórico de uso de IA no desenvolvimento e na configuração original do deploy não foi informado nesta atualização.
 
 ## 💻 Deploy do Projeto
 
-- **Código-fonte da atividade:** ainda não incluído nesta pasta.
-- **Endereço público:** ainda não informado e verificado.
-- **Execução local:** as instruções serão acrescentadas conforme a estrutura real do projeto.
+- **[Acessar o Pixel Club publicado](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/)**
+- **[Acessar o código-fonte no GitHub](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap)**
+
+O código-fonte permanece no repositório próprio do Pixel Club. Esta pasta documenta sua publicação no portfólio.
 
 ---
 
