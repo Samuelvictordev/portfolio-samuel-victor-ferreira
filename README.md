@@ -1,31 +1,108 @@
+<div align="center">
+
 # Samuel Victor Ferreira
+### Spike · Desenvolvedor Minecraft Bedrock
 
-> Estudante de Análise e Desenvolvimento de Sistemas — UNICID | Desenvolvedor Minecraft Bedrock
+Estudante de Análise e Desenvolvimento de Sistemas na UNICID  
+São Paulo, Brasil
 
-## 👨‍💻 Sobre
+[![GitHub](https://img.shields.io/badge/GitHub-Samuelvictordev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samuelvictordev)
+[![Pixel Club](https://img.shields.io/badge/Ver_site-Pixel_Club-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/)
+[![Foco Digital](https://img.shields.io/badge/Ver_site-Foco_Digital-0891B2?style=for-the-badge&logo=githubpages&logoColor=white)](https://samuelvictordev.github.io/AT5-Foco-Digital/)
 
-Este repositório reúne a documentação das atividades acadêmicas de Desenvolvimento Front-End de Samuel Victor Ferreira, organizadas por tema.
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Samuel, conhecido profissionalmente como **Spike**. Desenvolvo conteúdos e sistemas para **Minecraft Bedrock**, com foco em mecânicas de jogo, itens, criaturas e experiências interativas.
+
+Curso **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Neste portfólio, reúno minhas atividades de desenvolvimento front-end, explorando estruturação semântica, interfaces responsivas, JavaScript e visualização de dados.
+
+- **Atuação:** desenvolvimento de add-ons e sistemas para Minecraft Bedrock.
+- **Experiência:** Starfish Studios, Block Factory e Eternal Creations.
+- **Interesses:** programação, jogos e criação de experiências digitais.
+- **Objetivo:** aprofundar meus conhecimentos em desenvolvimento de software e transformar ideias em projetos interativos.
+
+## 🛠️ Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🎮 Experiência em desenvolvimento
+
+| Estúdio | Atuação |
+| :--- | :--- |
+| **Starfish Studios** | Sistemas de armas e armaduras e funcionalidades para o Cozy SMP. |
+| **Block Factory** | Mecânicas de combate, habilidades, criaturas e chefes para o Bosses Rise. |
+| **Eternal Creations** | Experiência anterior com desenvolvimento de add-ons e conteúdos para Minecraft. |
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🎮 Pixel Club — A Evolução dos Videogames
+
+Site responsivo sobre a **história dos videogames**, com cinco páginas interligadas, galeria de clássicos, dados históricos e formulário de feedback. Utiliza navbar responsiva, cards, modais, tabelas e accordion.
+
+**HTML5 · CSS3 · Bootstrap 5 · JavaScript**
+
+[🌐 Acessar o site](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/) · [💻 Código-fonte](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap) · [📄 Documentação da AT4](./AT4-Site-Multi-Paginas-Bootstrap/README.md)
+
+### 🎯 Foco Digital — Trabalho, IA e Atenção
+
+Projeto sobre **interrupções digitais, copilotagem com IA e bem-estar socioemocional** de jovens profissionais de tecnologia. Apresenta pesquisas, gráficos interativos e um simulador educativo de fragmentação digital.
+
+**HTML5 · CSS3 · Bootstrap 5 · JavaScript · Chart.js**
+
+**Integrantes:** Guilherme David Viana de Oliveira e Samuel Victor Ferreira.
+
+[🌐 Acessar o site](https://samuelvictordev.github.io/AT5-Foco-Digital/) · [💻 Código-fonte](https://github.com/Samuelvictordev/AT5-Foco-Digital) · [📄 Documentação da AT5](./AT5-Front-End-Copilotado-com-IA/README.md)
+
+---
 
 ## 📂 Atividades acadêmicas
 
-| Atividade | Objetivo | Documentação |
+**Disciplina: Desenvolvimento Front-End**
+
+| Atividade | Projeto e objetivo | Acesso |
 | :--- | :--- | :--- |
-| **AT1 – Perfil Pessoal e Profissional** | Página HTML em versões inicial e aprimorada, com organização semântica e navegação interna. | [README](./AT1-Paginas-HTML/README.md) |
-| **AT2 – Deploy do Pixel Club** | Publicação do site Pixel Club no GitHub Pages e disponibilização de seu endereço público. | [README](./AT2-Deploy-de-Site/README.md) · [Site](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/) · [Código](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap) |
-| **AT3 – Calculadora de IMC** | Desenvolver uma aplicação web para receber peso e altura e calcular o Índice de Massa Corporal (IMC), exercitando formulários e lógica de programação. | [README](./AT3-Calculadora-IMC/README.md) |
-| **AT4 – Pixel Club — A Evolução dos Videogames** | Site responsivo com cinco páginas sobre a história dos videogames, desenvolvido com Bootstrap 5. | [README](./AT4-Site-Multi-Paginas-Bootstrap/README.md) · [Site](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/) · [Código](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap) |
-| **AT5 – Foco Digital — Trabalho, IA e Atenção** | Pesquisas, gráficos interativos e simulador educativo sobre fragmentação digital e copilotagem com IA. | [README](./AT5-Front-End-Copilotado-com-IA/README.md) · [Site](https://samuelvictordev.github.io/AT5-Foco-Digital/) · [Código](https://github.com/Samuelvictordev/AT5-Foco-Digital) |
+| **AT1 — Páginas HTML** | Perfil pessoal e profissional em versões inicial e aprimorada, com HTML semântico e navegação interna. | [Documentação e arquivos](./AT1-Paginas-HTML/) |
+| **AT2 — Deploy de Site** | Publicação do Pixel Club no GitHub Pages e disponibilização do endereço público. | [Documentação](./AT2-Deploy-de-Site/README.md) · [Site](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/) |
+| **AT3 — Calculadora de IMC** | Leitura de peso e altura, cálculo do IMC, classificação e atualização do resultado com JavaScript. | [Documentação](./AT3-Calculadora-IMC/README.md) · [Código](./AT3-Calculadora-IMC/calculadora_imc.html) |
+| **AT4 — Site Multipágina com Bootstrap 5** | Pixel Club: cinco páginas responsivas sobre a história dos videogames. | [Documentação](./AT4-Site-Multi-Paginas-Bootstrap/README.md) · [Código](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap) |
+| **AT5 — Front-End e Copilotagem com IA** | Foco Digital: trabalho fragmentado, atenção, autonomia e uso crítico de IA. | [Documentação](./AT5-Front-End-Copilotado-com-IA/README.md) · [Código](https://github.com/Samuelvictordev/AT5-Foco-Digital) |
 
-## 🗂 Organização do repositório
+> O Pixel Club aparece na AT2 pelo processo de publicação e na AT4 pelo desenvolvimento do site com Bootstrap 5.
 
-Cada pasta possui um README com descrição, tecnologias, objetivos de aprendizagem, declaração de uso de IA e informações de publicação.
+## 🗂️ Organização do portfólio
 
-A **AT1** inclui os PDFs e as versões HTML do perfil pessoal e profissional. A **AT3** inclui o código da calculadora de IMC e instruções de execução local. A **AT4** apresenta o Pixel Club e a **AT5**, o Foco Digital, ambas com links para o site publicado e o repositório de código-fonte. A **AT2** documenta o deploy do Pixel Club no GitHub Pages, enquanto a **AT4** apresenta seu desenvolvimento com Bootstrap 5.
+Cada pasta de atividade possui um README com apresentação do projeto, tecnologias, aprendizados e orientações de acesso.
 
-## 🧠 Uso de inteligência artificial
+- **AT1:** PDFs originais e versões HTML extraídas.
+- **AT2:** documentação do deploy do Pixel Club.
+- **AT3:** código da calculadora e instruções para execução local.
+- **AT4 e AT5:** documentação e links para os repositórios próprios dos projetos.
 
-A organização e a redação desta documentação tiveram apoio de inteligência artificial. O uso de IA em cada implementação será registrado conforme o processo real de desenvolvimento.
+## 🧠 Copilotagem e uso de IA
 
-## 📫 Perfil
+A organização e a redação deste portfólio tiveram apoio de inteligência artificial. Os registros específicos de cada atividade estão descritos nos respectivos READMEs.
 
-[Samuelvictordev no GitHub](https://github.com/Samuelvictordev)
+No Foco Digital, o processo de copilotagem crítica é acompanhado de [auditoria de IA](https://github.com/Samuelvictordev/AT5-Foco-Digital/blob/main/AUDITORIA_IA.md) e [referências](https://github.com/Samuelvictordev/AT5-Foco-Digital/blob/main/REFERENCIAS.md).
+
+---
+
+<div align="center">
+
+**Samuel Victor Ferreira · Spike**  
+Desenvolvimento de jogos, sistemas e experiências para a web.
+
+[Ver meu perfil no GitHub](https://github.com/Samuelvictordev)
+
+</div>
