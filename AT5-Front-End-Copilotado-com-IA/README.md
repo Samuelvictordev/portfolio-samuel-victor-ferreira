@@ -1,44 +1,51 @@
-# 🤖 AT5 – Front-End Copilotado com IA
+# 🎯 Foco Digital — Trabalho, IA e Atenção
 
-**Autor:** Samuel Victor Ferreira  
+**AT5 — Front-End e Copilotagem com IA**
+
+**Integrantes:** Guilherme David Viana de Oliveira e Samuel Victor Ferreira  
 **Curso:** Análise e Desenvolvimento de Sistemas — UNICID
 
 ## 📝 Descrição do Projeto
 
-Desenvolver um projeto front-end com apoio de ferramentas de inteligência artificial, documentando como as sugestões são analisadas, adaptadas e aplicadas ao trabalho.
+**Tema:** Trabalho Fragmentado — Como as interrupções digitais e a copilotagem com IA influenciam a autonomia, a concentração e o bem-estar socioemocional dos jovens profissionais de tecnologia.
 
-Esta pasta integra o portfólio acadêmico de Desenvolvimento Front-End de Samuel Victor Ferreira.
+O Foco Digital aborda a relação entre inteligência artificial, trabalho digital e competências socioemocionais. A aplicação apresenta pesquisas fundamentadas, gráficos interativos e um simulador educativo de fragmentação digital.
+
+O projeto reúne documentação técnica e registro de copilotagem crítica com inteligência artificial.
 
 ## 🚀 Tecnologias Utilizadas
 
-As linguagens, bibliotecas e ferramentas de IA serão descritas a partir dos arquivos do projeto e dos registros do processo de desenvolvimento.
-
-- **Repositório e versionamento da documentação:** GitHub.
+- **HTML5:** estrutura do conteúdo.
+- **CSS3:** apresentação visual.
+- **Bootstrap 5:** componentes e layout responsivo.
+- **JavaScript:** interatividade e simulador educativo.
+- **Chart.js:** gráficos interativos.
+- **GitHub Pages:** publicação do site.
 
 ## 📊 Resultados e Aprendizados
 
-### Objetivos de aprendizagem
-
-- Planejamento e construção de interfaces web.
-- Elaboração de instruções e avaliação das respostas da IA.
-- Revisão do código e do conteúdo produzido.
-- Registro das contribuições da IA e das decisões de desenvolvimento.
-
-### Situação atual no repositório
-
-Esta pasta contém a documentação da atividade. Os arquivos de implementação ainda não foram adicionados aqui; por isso, os resultados, as funcionalidades concluídas e as verificações de funcionamento ainda precisam ser registrados a partir da entrega correspondente.
+- Apresentação de pesquisas sobre trabalho digital, atenção e competências socioemocionais.
+- Visualização de informações por meio de gráficos interativos.
+- Desenvolvimento de um simulador educativo de fragmentação digital.
+- Integração de HTML, CSS, Bootstrap e JavaScript.
+- Documentação das fontes e avaliação crítica do apoio da IA ao desenvolvimento.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta documentação foi elaborada com apoio de inteligência artificial para organizar as informações do portfólio e padronizar sua apresentação.
+O projeto registra o uso de inteligência artificial em um processo de copilotagem crítica. As contribuições, os registros e as análises desse processo estão documentados na [Auditoria de IA](https://github.com/Samuelvictordev/AT5-Foco-Digital/blob/main/AUDITORIA_IA.md).
 
-O uso de IA na implementação da atividade deverá ser descrito conforme o processo efetivamente realizado, incluindo as ferramentas utilizadas, suas contribuições e a revisão das sugestões. Esta declaração não atribui à implementação um histórico de uso de IA ainda não documentado. O registro detalhado poderá ser reunido em um arquivo `AUDITORIA_IA.md` quando ele for incluído nesta pasta.
+As fontes utilizadas estão disponíveis em [Referências](https://github.com/Samuelvictordev/AT5-Foco-Digital/blob/main/REFERENCIAS.md).
+
+A organização desta página do portfólio também contou com apoio de inteligência artificial.
 
 ## 💻 Deploy do Projeto
 
-- **Código-fonte da atividade:** ainda não incluído nesta pasta.
-- **Endereço público:** ainda não informado e verificado.
-- **Execução local:** as instruções serão acrescentadas conforme a estrutura real do projeto.
+- **[Acessar o site publicado](https://samuelvictordev.github.io/AT5-Foco-Digital/)**
+- **[Acessar o repositório com o código-fonte](https://github.com/Samuelvictordev/AT5-Foco-Digital)**
+
+O código-fonte e a documentação técnica são mantidos no repositório próprio do Foco Digital. Esta pasta reúne a apresentação da atividade no portfólio.
+
+Para executar localmente, baixe ou clone o repositório do projeto e abra `index.html` no navegador.
 
 ---
 

@@ -1,43 +1,49 @@
-# 📄 AT1 – Páginas HTML
+# 📄 AT1 — Perfil Pessoal e Profissional
 
-**Autor:** Samuel Victor Ferreira  
+**Aluno:** Samuel Victor Ferreira  
 **Curso:** Análise e Desenvolvimento de Sistemas — UNICID
 
 ## 📝 Descrição do Projeto
 
-Praticar a criação e a organização de páginas web com HTML, estruturando conteúdos e a navegação entre páginas.
+Página de apresentação pessoal e profissional de Samuel (Spike), com dados acadêmicos, experiência no desenvolvimento de conteúdos para Minecraft Bedrock, competências técnicas e objetivos profissionais.
 
-Esta pasta integra o portfólio acadêmico de Desenvolvimento Front-End de Samuel Victor Ferreira.
+A atividade registra duas versões: uma página inicial com elementos básicos de HTML e uma versão aprimorada com estrutura semântica e navegação interna.
+
+## 📂 Arquivos da atividade
+
+| Versão | Código HTML | Documento original |
+| :--- | :--- | :--- |
+| Inicial | [01_pagina_inicial.html](./01_pagina_inicial.html) | [01_pagina_inicial.pdf](./01_pagina_inicial.pdf) |
+| Aprimorada | [02_pagina_aprimorada.html](./02_pagina_aprimorada.html) | [02_pagina_aprimorada.pdf](./02_pagina_aprimorada.pdf) |
+
+Os arquivos HTML foram extraídos do código textual presente nos PDFs enviados. Os PDFs originais foram preservados.
 
 ## 🚀 Tecnologias Utilizadas
 
-HTML é a tecnologia central indicada pela proposta da atividade. O uso de CSS, JavaScript ou outros recursos será documentado após a inclusão dos arquivos.
+- **HTML5:** títulos, parágrafos, listas e organização do conteúdo.
+- **HTML semântico:** elementos `header`, `nav`, `main`, `section`, `article` e `footer` na versão aprimorada.
+- **Acessibilidade:** idioma da página, rótulos de navegação e associação entre seções e títulos.
+- **Metadados:** configuração de viewport e descrição na versão aprimorada.
 
-- **Repositório e versionamento da documentação:** GitHub.
+As versões enviadas não utilizam CSS, JavaScript ou bibliotecas externas.
 
 ## 📊 Resultados e Aprendizados
 
-### Objetivos de aprendizagem
-
-- Estrutura básica de um documento HTML.
-- Organização de títulos, parágrafos, listas, imagens e links.
-- Navegação e organização dos arquivos do site.
-
-### Situação atual no repositório
-
-Esta pasta contém a documentação da atividade. Os arquivos de implementação ainda não foram adicionados aqui; por isso, os resultados, as funcionalidades concluídas e as verificações de funcionamento ainda precisam ser registrados a partir da entrega correspondente.
+- Evolução de uma estrutura básica para uma organização semântica.
+- Hierarquia de títulos e separação do conteúdo em seções.
+- Navegação por âncoras para as áreas do perfil.
+- Uso de lista de definições para dados pessoais e acadêmicos.
+- Organização das experiências profissionais em artigos.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta documentação foi elaborada com apoio de inteligência artificial para organizar as informações do portfólio e padronizar sua apresentação.
+A organização desta documentação e a extração do HTML dos PDFs tiveram apoio de inteligência artificial. O histórico de uso de IA na elaboração original das páginas não foi informado nesta atualização.
 
-O uso de IA na implementação da atividade deverá ser descrito conforme o processo efetivamente realizado, incluindo as ferramentas utilizadas, suas contribuições e a revisão das sugestões. Esta declaração não atribui à implementação um histórico de uso de IA ainda não documentado.
+## 💻 Execução do Projeto
 
-## 💻 Deploy do Projeto
+Baixe um dos arquivos HTML e abra-o em um navegador. Não são necessárias dependências ou servidor local.
 
-- **Código-fonte da atividade:** ainda não incluído nesta pasta.
-- **Endereço público:** ainda não informado e verificado.
-- **Execução local:** as instruções serão acrescentadas conforme a estrutura real do projeto.
+O endereço de deploy desta atividade ainda não foi informado.
 
 ---
 
