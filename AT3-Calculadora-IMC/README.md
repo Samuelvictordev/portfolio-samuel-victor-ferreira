@@ -5,40 +5,38 @@
 
 ## 📝 Descrição do Projeto
 
-Desenvolver uma aplicação web para receber peso e altura e calcular o Índice de Massa Corporal (IMC), exercitando formulários e lógica de programação.
+Aplicação web que recebe peso em quilogramas e altura em metros para calcular o Índice de Massa Corporal (IMC) e apresentar a classificação correspondente.
 
-Esta pasta integra o portfólio acadêmico de Desenvolvimento Front-End de Samuel Victor Ferreira.
+O código-fonte está no arquivo [calculadora_imc.html](./calculadora_imc.html), incluído a partir do ZIP enviado pelo aluno.
 
 ## 🚀 Tecnologias Utilizadas
 
-A proposta envolve estruturação de uma interface web e lógica de cálculo. As linguagens, bibliotecas e ferramentas efetivamente utilizadas serão confirmadas com os arquivos da implementação.
-
-- **Repositório e versionamento da documentação:** GitHub.
+- **HTML5:** estrutura da interface e campos de entrada.
+- **CSS3:** estilos incorporados ao documento.
+- **JavaScript:** leitura dos campos, cálculo, validação e atualização do resultado.
+- **Dependências externas:** nenhuma.
 
 ## 📊 Resultados e Aprendizados
 
-### Objetivos de aprendizagem
+- Cálculo pela fórmula `IMC = peso (kg) / altura (m)²`.
+- Aceitação de vírgula ou ponto como separador decimal.
+- Verificação de campos vazios, valores não numéricos e valores menores ou iguais a zero.
+- Exibição do resultado com duas casas decimais e classificação.
+- Tabela de referência para adultos e área de resultado com `aria-live="polite"`.
 
-- Leitura de dados de um formulário.
-- Aplicação da fórmula `IMC = peso (kg) / altura (m)²`.
-- Validação de valores informados.
-- Apresentação do resultado na interface.
-
-### Situação atual no repositório
-
-Esta pasta contém a documentação da atividade. Os arquivos de implementação ainda não foram adicionados aqui; por isso, os resultados, as funcionalidades concluídas e as verificações de funcionamento ainda precisam ser registrados a partir da entrega correspondente.
+A atividade exercita operações matemáticas, estruturas condicionais e manipulação do DOM.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta documentação foi elaborada com apoio de inteligência artificial para organizar as informações do portfólio e padronizar sua apresentação.
+Esta documentação foi organizada com apoio de inteligência artificial. O histórico de uso de IA na implementação não foi informado nesta atualização.
 
-O uso de IA na implementação da atividade deverá ser descrito conforme o processo efetivamente realizado, incluindo as ferramentas utilizadas, suas contribuições e a revisão das sugestões. Esta declaração não atribui à implementação um histórico de uso de IA ainda não documentado.
+## 💻 Execução do Projeto
 
-## 💻 Deploy do Projeto
+1. Baixe o arquivo [calculadora_imc.html](./calculadora_imc.html).
+2. Abra-o em um navegador.
+3. Informe peso e altura e clique em **Calcular IMC**.
 
-- **Código-fonte da atividade:** ainda não incluído nesta pasta.
-- **Endereço público:** ainda não informado e verificado.
-- **Execução local:** as instruções serão acrescentadas conforme a estrutura real do projeto.
+Não é necessário instalar bibliotecas ou executar um servidor. O endereço de deploy ainda não foi confirmado.
 
 ---
 
