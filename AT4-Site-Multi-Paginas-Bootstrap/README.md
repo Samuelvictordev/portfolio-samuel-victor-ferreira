@@ -1,44 +1,55 @@
-# 🧩 AT4 – Site Multipáginas com Bootstrap
+# 🎮 Pixel Club — A Evolução dos Videogames
 
-**Autor:** Samuel Victor Ferreira  
-**Curso:** Análise e Desenvolvimento de Sistemas — UNICID
+**Atividade 4 — Desenvolvimento de Site Multipágina com Bootstrap 5**  
+**Aluno:** Samuel Victor  
+**Curso:** Análise e Desenvolvimento de Sistemas — UNICID  
+**Tema escolhido:** História dos Videogames
 
 ## 📝 Descrição do Projeto
 
-Construir um site com múltiplas páginas utilizando Bootstrap, praticando a organização do conteúdo, a navegação e a adaptação da interface a diferentes tamanhos de tela.
+O Pixel Club é um site responsivo sobre a história dos videogames, desenvolvido com HTML5, CSS3, Bootstrap 5 e JavaScript.
 
-Esta pasta integra o portfólio acadêmico de Desenvolvimento Front-End de Samuel Victor Ferreira.
+O projeto contém cinco páginas interligadas, apresentando a evolução dos videogames, uma galeria de jogos clássicos, dados históricos e um formulário de feedback.
+
+### Páginas do projeto
+
+- **Início (`index.html`):** apresentação do projeto e da evolução dos videogames.
+- **Galeria (`galeria.html`):** jogos clássicos.
+- **Dados (`dados.html`):** dados históricos.
+- **Contato (`contato.html`):** formulário de feedback.
+- **Sobre (`sobre.html`):** informações sobre o projeto.
 
 ## 🚀 Tecnologias Utilizadas
 
-Bootstrap é o framework indicado pela proposta. A versão, os componentes e os demais recursos utilizados serão registrados após a inclusão do código-fonte.
+- **HTML5:** estrutura das páginas.
+- **CSS3:** personalização visual.
+- **Bootstrap 5:** layout e componentes responsivos.
+- **JavaScript:** interatividade.
+- **GitHub Pages:** hospedagem do site.
 
-- **Repositório e versionamento da documentação:** GitHub.
+Foram utilizados componentes do Bootstrap, como navbar responsiva, cards, modais, tabelas, formulários e accordion.
 
 ## 📊 Resultados e Aprendizados
 
-### Objetivos de aprendizagem
+O projeto reúne cinco páginas com navegação integrada e apresentação responsiva sobre a história dos videogames.
 
-- Organização de páginas com navegação compartilhada.
-- Uso do sistema de grid e de classes utilitárias do Bootstrap.
-- Aplicação de componentes de interface.
-- Planejamento da apresentação em dispositivos móveis e computadores.
-
-### Situação atual no repositório
-
-Esta pasta contém a documentação da atividade. Os arquivos de implementação ainda não foram adicionados aqui; por isso, os resultados, as funcionalidades concluídas e as verificações de funcionamento ainda precisam ser registrados a partir da entrega correspondente.
+- Organização de um site multipágina com identidade visual consistente.
+- Aplicação de componentes e recursos de responsividade do Bootstrap 5.
+- Apresentação de conteúdo histórico com recursos visuais, tabelas e interações.
+- Publicação do projeto no GitHub Pages.
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta documentação foi elaborada com apoio de inteligência artificial para organizar as informações do portfólio e padronizar sua apresentação.
-
-O uso de IA na implementação da atividade deverá ser descrito conforme o processo efetivamente realizado, incluindo as ferramentas utilizadas, suas contribuições e a revisão das sugestões. Esta declaração não atribui à implementação um histórico de uso de IA ainda não documentado.
+Esta documentação foi organizada com apoio de inteligência artificial. O histórico de uso de IA na implementação não foi informado nesta atualização.
 
 ## 💻 Deploy do Projeto
 
-- **Código-fonte da atividade:** ainda não incluído nesta pasta.
-- **Endereço público:** ainda não informado e verificado.
-- **Execução local:** as instruções serão acrescentadas conforme a estrutura real do projeto.
+- **[Acessar o site publicado](https://samuelvictordev.github.io/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap/)**
+- **[Acessar o repositório com o código-fonte](https://github.com/Samuelvictordev/Desenvolvimento-de-Site-Multi-p-gina-com-Bootstrap)**
+
+O código-fonte é mantido no repositório próprio do Pixel Club. Esta pasta reúne sua documentação no portfólio.
+
+Para executar localmente, baixe ou clone o repositório do projeto e abra `index.html` no navegador.
 
 ---
 
